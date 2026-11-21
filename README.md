@@ -18,6 +18,39 @@
 
 ---
 
+### Terminal cards
+
+```text
+┌──────────────────────────────────────────────┐
+│  zenou@github:~$ whoami                      │
+├──────────────────────────────────────────────┤
+│                                              │
+│  USER       zenou                            │
+│  BUILDING   Zenou Unblocked                  │
+│  LEARNING   Web Dev + Cybersecurity          │
+│  INTERESTS  AI, coding, new projects          │
+│                                              │
+│  STATUS     [██████░░░░] learning...          │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+```text
+╭──────────────────────────────────────────────╮
+│  ~/projects                                  │
+├──────────────────────────────────────────────┤
+│                                              │
+│  > zenou-unblocked/                          │
+│    └── unblocked games website               │
+│                                              │
+│  > upcoming-projects/                        │
+│    └── more ideas in progress...             │
+│                                              │
+│  $ echo "keep building"                      │
+│  keep building                               │
+╰──────────────────────────────────────────────╯
+```
+
 ### About me
 
 I'm Zenou. I build websites and experiment with new ideas.
