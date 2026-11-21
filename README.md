@@ -18,39 +18,6 @@
 
 ---
 
-### Terminal cards
-
-```text
-┌──────────────────────────────────────────────┐
-│  zenou@github:~$ whoami                      │
-├──────────────────────────────────────────────┤
-│                                              │
-│  USER       zenou                            │
-│  BUILDING   Zenou Unblocked                  │
-│  LEARNING   Web Dev + Cybersecurity          │
-│  INTERESTS  AI, coding, new projects          │
-│                                              │
-│  STATUS     [██████░░░░] learning...          │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-```text
-╭──────────────────────────────────────────────╮
-│  ~/projects                                  │
-├──────────────────────────────────────────────┤
-│                                              │
-│  > zenou-unblocked/                          │
-│    └── unblocked games website               │
-│                                              │
-│  > upcoming-projects/                        │
-│    └── more ideas in progress...             │
-│                                              │
-│  $ echo "keep building"                      │
-│  keep building                               │
-╰──────────────────────────────────────────────╯
-```
-
 ### About me
 
 I'm Zenou. I build websites and experiment with new ideas.
@@ -88,7 +55,7 @@ I'm Zenou. I build websites and experiment with new ideas.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zenou101&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub achievement trophies" width="100%" />
+<img src="https://trophy.ryglcloud.net/?username=zenou101&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub achievement trophies" width="100%" />
 
 </div>
 
