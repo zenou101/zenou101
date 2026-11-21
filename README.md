@@ -1,5 +1,5 @@
 
-<img src="assets/anime-banner.png" alt="Zenou anime profile banner" width="100%" />
+<img src="https://raw.githubusercontent.com/zenou101/zenou101/main/assets/zenou-banner.svg" alt="Zenou developer banner" width="100%" />
 
 <div align="center">
 
