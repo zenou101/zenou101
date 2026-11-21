@@ -14,6 +14,8 @@
 
 I'm currently working on **Zenou Unblocked**, my own unblocked games website.
 
+I'm also working on **FrameLab**, a Windows desktop app focused on PC performance. It's still in early development, so more details will come later.
+
 I'm currently learning more about coding, web development, cybersecurity and how to use AI to build stuff.
 
 You can ask me about my website, vibe coding or anything tech related.
