@@ -65,6 +65,23 @@ I go by **Zenou** online and mostly build random stuff for fun. More projects co
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" title="Canva" width="42" height="42" />
 <img src="https://cdn.simpleicons.org/framer/FFFFFF" alt="Framer" title="Framer" width="42" height="42" />
 
+
+**FrameLab — Planned Desktop App Stack (In Development)**
+
+<img src="https://cdn.simpleicons.org/tauri/FFC131" alt="Tauri" title="Tauri 2" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/rust/FFFFFF" alt="Rust" title="Rust" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React 19" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" title="Vite 7" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS 4" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/reactrouter/CA4245" alt="React Router" title="React Router" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/sqlite/74C0FC" alt="SQLite" title="SQLite" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/radixui/FFFFFF" alt="Radix UI" title="Radix UI" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/zustand/FFFFFF" alt="Zustand" title="Zustand" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/lucide/FFFFFF" alt="Lucide" title="Lucide Icons" width="42" height="42" />
+
+<sub>Also planned: Recharts, Motion, Tokio, Serde, windows-rs, sysinfo, rusqlite, PresentMon, DXGI, Windows performance counters, and NSIS packaging. Tools may change during development.</sub>
+
 </div>
 
 # 📊 GitHub Stats:
