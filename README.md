@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Vibe+Coder;Building+Zenou+Unblocked;Learning+Web+Development;More+Projects+Coming+Soon" alt="Typing animation" />
 
-Building websites, experimenting with AI, and working on random projects for fun.
+Learning web development and cybersecurity, building websites, and working on projects for fun.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zenou101)
 
@@ -18,7 +18,7 @@ Building websites, experimenting with AI, and working on random projects for fun
 ## About Me
 
 - Currently building **Zenou Unblocked**, my own unblocked games website.
-- Learning more about coding, web development, and AI.
+- Currently learning web development and cybersecurity.
 - Interested in vibe coding and experimenting with new technologies.
 - Working on more projects coming soon.
 
