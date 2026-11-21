@@ -27,7 +27,7 @@ I go by **Zenou** online and mostly build random stuff for fun. More projects co
 **Languages & Markup**
 
 <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" title="HTML5" width="42" height="42" />
-<img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" title="CSS3" width="42" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="42" height="42" />
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="42" height="42" />
 <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="42" height="42" />
 <img src="https://cdn.simpleicons.org/rust/FFFFFF" alt="Rust" title="Rust" width="42" height="42" />
@@ -52,7 +52,7 @@ I go by **Zenou** online and mostly build random stuff for fun. More projects co
 <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" width="42" height="42" />
 <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" title="GitHub" width="42" height="42" />
 <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" title="GitHub Actions" width="42" height="42" />
-<img src="https://cdn.simpleicons.org/playwright/2EAD33" alt="Playwright" title="Playwright" width="42" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="42" height="42" />
 <img src="https://cdn.simpleicons.org/vitest/6E9F18" alt="Vitest" title="Vitest" width="42" height="42" />
 <img src="https://cdn.simpleicons.org/prettier/F7B93E" alt="Prettier" title="Prettier" width="42" height="42" />
 <img src="https://cdn.simpleicons.org/eslint/A78BFA" alt="ESLint" title="ESLint" width="42" height="42" />
@@ -60,7 +60,7 @@ I go by **Zenou** online and mostly build random stuff for fun. More projects co
 
 **Design**
 
-<img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" title="Canva" width="42" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" title="Canva" width="42" height="42" />
 <img src="https://cdn.simpleicons.org/framer/FFFFFF" alt="Framer" title="Framer" width="42" height="42" />
 
 </div>
