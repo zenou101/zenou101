@@ -59,6 +59,20 @@ Building websites, experimenting with AI, and working on random projects for fun
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenou101/zenou101/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenou101/zenou101/output/github-snake.svg" />
+  <img alt="Zenou's contribution snake animation" src="https://raw.githubusercontent.com/zenou101/zenou101/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## Current Project
 
 <div align="center">
