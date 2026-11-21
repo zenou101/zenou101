@@ -2,7 +2,7 @@
 
 <img src="assets/zenou-banner.svg" width="100%" alt="Zenou neon developer banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1200&color=7DD3FC&center=true&vCenter=true&width=560&lines=Building+Zenou+Unblocked;Learning+web+development+%26+cybersecurity;More+projects+coming+soon..." alt="Animated developer intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1200&color=7DD3FC&center=true&vCenter=true&width=560&lines=Building+ZenouMath;Building+FrameLab;Learning+web+development+%26+cybersecurity" alt="Animated developer intro" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zenou101) [![Website](https://img.shields.io/badge/Website-zenoumath.space-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zenoumath.space) [![Projects](https://img.shields.io/badge/My_Projects-6D5DFC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zenou101?tab=repositories)
 
@@ -12,9 +12,9 @@
 
 # 💫 About Me:
 
-I'm currently working on **Zenou Unblocked**, my own unblocked games website.
+I'm currently building **ZenouMath**, my website at [zenoumath.space](https://zenoumath.space).
 
-I'm also working on **FrameLab**, a Windows desktop app focused on PC performance. It's still in early development, so more details will come later.
+I'm also currently building **FrameLab**, a Windows desktop app focused on PC performance. It's still in early development.
 
 I'm currently learning more about coding, web development, cybersecurity and how to use AI to build stuff.
 
