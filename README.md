@@ -26,27 +26,42 @@ I go by **Zenou** online and mostly build random stuff for fun. More projects co
 
 **Languages & Markup**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,md&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Rust and Markdown" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" title="Rust" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" title="Markdown" width="44" height="44" style="margin: 5px;" />
 
 **Frontend Development**
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" alt="React, Tailwind CSS and Vite" />
-
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="React Router" title="React Router" width="44" height="44" style="margin: 5px;" />
 
 **Backend & Cloud**
 
-<img src="https://skillicons.dev/icons?i=nodejs,npm,supabase,cloudflare&theme=dark" alt="Node.js, npm, Supabase and Cloudflare" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare" width="44" height="44" style="margin: 5px;" />
 
 **Developer Tools & Testing**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,playwright,vitest,prettier,postman&theme=dark" alt="Git, GitHub, GitHub Actions, Playwright, Vitest, Prettier and Postman" />
-
-<img src="https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="Vitest" title="Vitest" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prettier/prettier-original.svg" alt="Prettier" title="Prettier" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" alt="ESLint" title="ESLint" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="44" height="44" style="margin: 5px;" />
 
 **Design**
 
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" /> <img src="https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" title="Canva" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" alt="Framer" title="Framer" width="44" height="44" style="margin: 5px;" />
 
 </div>
 
