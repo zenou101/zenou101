@@ -9,7 +9,6 @@
 
 Building websites, experimenting with AI, and working on random projects for fun.
 
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@bxflw)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zenou101)
 
 </div>
