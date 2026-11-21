@@ -50,7 +50,7 @@ I go by **Zenou** online and mostly build random stuff for fun. More projects co
 **Backend & Cloud**
 
 <img src="https://cdn.simpleicons.org/tokio/FFFFFF" alt="Tokio" title="Tokio" width="42" height="42" />
-<img src="https://img.shields.io/badge/Serde-1D2530?style=for-the-badge&logo=rust&logoColor=white" alt="Serde" title="Serde" height="42" />
+<img src="assets/serde-icon.svg" alt="Serde" title="Serde" width="42" height="42" />
 
 <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="42" height="42" />
 <img src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" title="npm" width="42" height="42" />
@@ -60,7 +60,7 @@ I go by **Zenou** online and mostly build random stuff for fun. More projects co
 **UI Libraries & State Management**
 
 <img src="https://cdn.simpleicons.org/radixui/FFFFFF" alt="Radix UI" title="Radix UI" width="42" height="42" />
-<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" title="Zustand" height="42" />
+<img src="assets/zustand-icon.svg" alt="Zustand" title="Zustand" width="42" height="42" />
 <img src="https://cdn.simpleicons.org/lucide/FFFFFF" alt="Lucide Icons" title="Lucide Icons" width="42" height="42" />
 
 **Developer Tools & Testing**
