@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Zenou Unblocked, my own unblocked games website.<br><br>I'm down to collaborate with other developers and people working on cool projects.<br><br>I'm looking for help with making my site better and adding new features.<br><br>I'm currently learning more about coding, web development and how to use AI to build stuff.<br><br>You can ask me about my website, vibe coding or anything tech related.<br><br>I'm 13, I go by Zenou online and I mostly just build random stuff for fun.
+I'm currently working on Zenou Unblocked, my own unblocked games website.<br><br><br><br>I'm looking for help with making my site better and adding new features.<br><br>I'm currently learning more about coding, web development and how to use AI to build stuff.<br><br>You can ask me about my website, vibe coding or anything tech related.<br><br>I'm 13, I go by Zenou online and I mostly just build random stuff for fun.
 
 
 ## 🌐 Socials:
