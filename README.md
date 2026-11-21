@@ -1,4 +1,6 @@
 
+<img src="https://raw.githubusercontent.com/zenou101/zenou101/main/assets/zenou-banner.svg" alt="Zenou developer banner" width="100%" />
+
 <div align="center">
 
 # Hey, I'm Zenou 👋
@@ -59,15 +61,13 @@ Building websites, experimenting with AI, and working on random projects for fun
 
 ---
 
-## Contribution Snake
+## Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenou101/zenou101/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenou101/zenou101/output/github-snake.svg" />
-  <img alt="Zenou's contribution snake animation" src="https://raw.githubusercontent.com/zenou101/zenou101/output/github-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zenou101&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="Zenou's GitHub contribution activity graph" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zenou101&theme=github_dark" alt="Zenou's GitHub contribution summary" width="100%" />
 
 </div>
 
