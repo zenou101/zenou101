@@ -28,12 +28,12 @@ I go by **Zenou** online and mostly build random stuff for fun. More projects co
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.shion.dev/api?username=zenou101&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+<img src="https://github-readme-stats.shion.dev/api?username=zenou101&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=9B8AFF&text_color=C9D1D9&icon_color=67E8F9&ring_color=9B8AFF" alt="Zenou GitHub statistics" height="175" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zenou101&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=9B8AFF&text_color=C9D1D9" alt="Most used languages in public repositories" height="175" />
 
-![GitHub streak](https://streak-stats.demolab.com/?user=zenou101&theme=dark&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=zenou101&hide_border=true&background=0D1117&ring=9B8AFF&fire=67E8F9&currStreakLabel=9B8AFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" width="60%" />
 
-![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=zenou101&theme=dark&hide_border=true&layout=compact)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zenou101&bg_color=0d1117&color=9b8aff&line=67e8f9&point=ffffff&area=true&area_color=5b5bd6&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity over time" width="100%" />
 
 </div>
 
