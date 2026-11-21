@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1200&color=7DD3FC&center=true&vCenter=true&width=560&lines=Building+Zenou+Unblocked;Learning+web+development+%26+cybersecurity;More+projects+coming+soon..." alt="Animated developer intro" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zenou101) [![Projects](https://img.shields.io/badge/My_Projects-6D5DFC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zenou101?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zenou101) [![Website](https://img.shields.io/badge/Website-zenoumath.space-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zenoumath.space) [![Projects](https://img.shields.io/badge/My_Projects-6D5DFC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zenou101?tab=repositories)
 
 </div>
 
