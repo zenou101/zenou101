@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/zenou-banner.svg" width="100%" alt="Zenou neon developer banner" />
+<img src="assets/zenou-banner.svg?v=20261121-2" width="100%" alt="Zenou neon developer banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=1200&color=7DD3FC&center=true&vCenter=true&width=560&lines=Building+ZenouMath;Building+FrameLab;Learning+web+development+%26+cybersecurity" alt="Animated developer intro" />
 
