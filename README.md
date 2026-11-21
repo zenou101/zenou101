@@ -14,7 +14,7 @@
 
 **[ZenouMath](https://zenoumath.space)** is live and regularly updated.
 
-**[FrameLab](https://github.com/zenou101/framelab)** is released and actively updated — a Windows desktop app for PC performance monitoring and benchmarking.
+**[FrameLab](https://github.com/zenou101/framelab)** is out now and still getting updates. It's a Windows app for monitoring and benchmarking PC performance.
 
 I'm currently learning more about coding, web development, cybersecurity and how to use AI to build stuff.
 
