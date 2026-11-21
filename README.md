@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="assets/zenou-banner.svg" alt="Animated Zenou developer banner" width="100%" />
+
+</div>
+
+<div align="center">
+
 # zenou
 
 **Web development · Cybersecurity · Building things for fun**
@@ -49,6 +55,13 @@ I'm Zenou. I build websites and experiment with new ideas.
 
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=zenou101&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub achievement trophies" width="100%" />
+
+</div>
+
+
+<div align="center">
+
 <img src="https://github-readme-stats.shion.dev/api?username=zenou101&show_icons=true&theme=github_dark&hide_border=true" alt="Zenou GitHub statistics" height="165" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zenou101&layout=compact&theme=github_dark&hide_border=true" alt="Languages in Zenou repositories" height="165" />
 
@@ -58,7 +71,21 @@ I'm Zenou. I build websites and experiment with new ideas.
 
 ---
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=zenou101&theme=tokyonight&hide_border=true&background=0D1117" alt="Zenou GitHub contribution streak" />
+
+</div>
+
+---
+
 ### Featured project
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FEATURED_PROJECT-ZENOU_UNBLOCKED-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Featured project Zenou Unblocked" />
+
+</div>
 
 **Zenou Unblocked** — An unblocked games website I'm building while learning and experimenting with web development.
 
@@ -67,6 +94,8 @@ I'm Zenou. I build websites and experiment with new ideas.
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=zenou101&label=Profile%20views&color=238636&style=flat-square" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:4338ca,100:0ea5e9&height=110&section=footer" alt="Gradient footer wave" width="100%" />
 
 <sub>Keep building. Keep learning.</sub>
 
