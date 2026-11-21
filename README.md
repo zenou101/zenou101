@@ -26,42 +26,42 @@ I go by **Zenou** online and mostly build random stuff for fun. More projects co
 
 **Languages & Markup**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" title="Rust" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" title="Markdown" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" title="HTML5" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" title="CSS3" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/rust/FFFFFF" alt="Rust" title="Rust" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/markdown/FFFFFF" alt="Markdown" title="Markdown" width="42" height="42" />
 
 **Frontend Development**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="React Router" title="React Router" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" title="Vite" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/reactrouter/CA4245" alt="React Router" title="React Router" width="42" height="42" />
 
 **Backend & Cloud**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" title="npm" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="Supabase" title="Supabase" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" title="Cloudflare" width="42" height="42" />
 
 **Developer Tools & Testing**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="Vitest" title="Vitest" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prettier/prettier-original.svg" alt="Prettier" title="Prettier" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" alt="ESLint" title="ESLint" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" title="GitHub" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" title="GitHub Actions" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/playwright/2EAD33" alt="Playwright" title="Playwright" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/vitest/6E9F18" alt="Vitest" title="Vitest" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/prettier/F7B93E" alt="Prettier" title="Prettier" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/eslint/A78BFA" alt="ESLint" title="ESLint" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman" width="42" height="42" />
 
 **Design**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" title="Canva" width="44" height="44" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" alt="Framer" title="Framer" width="44" height="44" style="margin: 5px;" />
+<img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" title="Canva" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/framer/FFFFFF" alt="Framer" title="Framer" width="42" height="42" />
 
 </div>
 
