@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/zenou101/zenou101/main/assets/zenou-banner.svg" alt="Zenou developer banner" width="100%" />
+<img src="assets/anime-banner.png" alt="Zenou anime profile banner" width="100%" />
 
 <div align="center">
 
@@ -25,25 +25,7 @@ Building websites, experimenting with AI, and working on random projects for fun
 
 ## Tech Stack
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,md&theme=dark" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,reactrouter&theme=dark" />
-
-### Backend & Tools
-
-<img src="https://skillicons.dev/icons?i=nodejs,npm,supabase,cloudflare,git,github,githubactions&theme=dark" />
-
-### Development & Design
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,vitest,playwright&theme=dark" />
-
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=cloudflare&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=plastic&logo=nodedotjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=plastic&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=reactrouter&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-000000?style=plastic&logo=framer&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=plastic&logo=githubactions&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-252529?style=plastic&logo=vitest&logoColor=FCC72B) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=plastic&logo=prettier&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 ---
 
