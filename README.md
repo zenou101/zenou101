@@ -82,6 +82,6 @@ I go by **Zenou** online and mostly build random stuff for fun. More projects co
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=zenou101&color=0&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=zenou101&label=Profile%20views&color=blueviolet&style=flat)
 
 </div>
