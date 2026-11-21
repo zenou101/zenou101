@@ -67,6 +67,14 @@ I go by **Zenou** online and mostly build random stuff for fun. More projects co
 
 </div>
 
+# 🏆 GitHub Trophies:
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zenou101&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="Zenou GitHub trophies" width="100%" />
+
+</div>
+
 # 📊 GitHub Stats:
 
 <div align="center">
